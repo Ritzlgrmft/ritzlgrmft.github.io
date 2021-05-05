@@ -1,10 +1,17 @@
-# Birds of Botswana
+---
+layout: page
+title: Birds of Botswana
+---
 
 ## Contact
 
 For praise, suggestions or criticism please send an email to <mailto:birds.botswana@markus.onmicrosoft.com>.
 
-## Versionshistorie
+## Privacy policy
+
+[Privacy policy](privacy-policy.html)
+
+## Version history
 
 | Version | Date     | Changes       |
 | ------- | -------- | ------------- |

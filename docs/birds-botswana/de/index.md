@@ -7,7 +7,11 @@ title: Vögel von Botswana
 
 Für Lob, Verbesserungsvorschläge oder Kritik senden Sie bitte eine Mail an <mailto:birds.botswana@markus.onmicrosoft.com>.
 
-## Version History
+## Datenschutzerklärung
+
+[Datenschutzerklärung](privacy-policy.html)
+
+## Versionshistorie
 
 | Version | Date     | Änderungen    |
 | ------- | -------- | ------------- |
