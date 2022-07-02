@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Vögel von Simbabwe
+title: Vögel von Sambia
 ---
 
 ## Kontakt
 
-Für Lob, Verbesserungsvorschläge oder Kritik senden Sie bitte eine Mail an <mailto:birds.zimbabwe@markus.onmicrosoft.com>.
+Für Lob, Verbesserungsvorschläge oder Kritik senden Sie bitte eine Mail an <mailto:birds.zambia@markus.onmicrosoft.com>.
 
 ## Datenschutzerklärung
 
