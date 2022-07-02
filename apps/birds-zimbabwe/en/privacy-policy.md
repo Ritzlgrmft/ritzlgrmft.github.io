@@ -3,7 +3,7 @@ layout: page
 title: Privacy Policy - Birds of Zimbabwe
 ---
 
-Last updated: Apr 19, 2022
+Last updated: May 05, 2021
 
 ## Collecting and using your personal data
 

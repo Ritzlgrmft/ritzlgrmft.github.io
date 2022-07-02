@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy - Birds of Namibia
+title: Privacy Policy - Birds of South Africa
 ---
 
 Last updated: May 05, 2021
@@ -21,4 +21,4 @@ We will let you know via a prominent notice in the app, prior to the change beco
 
 ## Contact us
 
-If you have any questions about this privacy policy, you can contact us by email: <mailto:birds.namibia@markus.onmicrosoft.com>.
+If you have any questions about this privacy policy, you can contact us by email: <mailto:birds.southafrica@markus.onmicrosoft.com>.

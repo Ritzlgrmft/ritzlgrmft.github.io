@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Birds of Zambia
+title: Birds of South Africa
 ---
 
 ## Contact
 
-For praise, suggestions or criticism please send an email to <mailto:birds.zambia@markus.onmicrosoft.com>.
+For praise, suggestions or criticism please send an email to <mailto:birds.southafrica@markus.onmicrosoft.com>.
 
 ## Privacy policy
 

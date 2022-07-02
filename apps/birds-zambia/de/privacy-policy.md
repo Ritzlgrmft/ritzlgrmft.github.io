@@ -3,7 +3,7 @@ layout: page
 title: Datenschutzerklärung - Vögel von Sambia
 ---
 
-Zuletzt aktualisiert: 19. April 2022
+Zuletzt aktualisiert: 5. Mai 2021
 
 ## Erfassung und Verwendung Ihrer persönlichen Daten
 

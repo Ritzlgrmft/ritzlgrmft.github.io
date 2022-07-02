@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Vögel von Sambia
+title: Vögel von Südafrika
 ---
 
 ## Kontakt
 
-Für Lob, Verbesserungsvorschläge oder Kritik senden Sie bitte eine Mail an <mailto:birds.zambia@markus.onmicrosoft.com>.
+Für Lob, Verbesserungsvorschläge oder Kritik senden Sie bitte eine Mail an <mailto:birds.southafrica@markus.onmicrosoft.com>.
 
 ## Datenschutzerklärung
 

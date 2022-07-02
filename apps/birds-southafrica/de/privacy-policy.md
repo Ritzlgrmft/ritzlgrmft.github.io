@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Datenschutzerklärung - Vögel von Simbabwe
+title: Datenschutzerklärung - Vögel von Südafrika
 ---
 
 Zuletzt aktualisiert: 5. Mai 2021
@@ -21,4 +21,4 @@ Wir werden Sie über einen auffälligen Hinweis in der App informieren, bevor di
 
 ## Kontakt
 
-Wenn Sie Fragen zu dieser Datenschutzerklärung haben, können Sie uns per E-Mail kontaktieren: <mailto:birds.zimbabwe@markus.onmicrosoft.com>.
+Wenn Sie Fragen zu dieser Datenschutzerklärung haben, können Sie uns per E-Mail kontaktieren: <mailto:birds.southafrica@markus.onmicrosoft.com>.
