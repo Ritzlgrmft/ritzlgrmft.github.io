@@ -19,3 +19,4 @@ For praise, suggestions or criticism please send an email to <mailto:birds.botsw
 | 1.1     | September 2021 | The app supports now also iPads. In addition, the texts were updated to the latest version from Wikipedia. |
 | 1.2     | February 2022  | The texts were updated to the latest version from Wikipedia. |
 | 2.0     | April 2022     | The texts were updated to the latest version from Wikipedia. In the course of this, 27 additional species were also included. |
+| 2.1     | September 2022 | The app was adapted for iOS 16. In addition, the texts were updated to the latest version from Wikipedia. |
