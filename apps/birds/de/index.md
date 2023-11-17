@@ -16,3 +16,5 @@ Für Lob, Verbesserungsvorschläge oder Kritik senden Sie bitte eine Mail an <ma
 | Version | Datum          | Änderungen     |
 | ------- | -------------- | -------------- |
 | 3.0     | März 2023      | Nachfolger der länderspezifischen Apps mit In-App-Käufen. |
+| 3.1     | November 2023  | Integration mit Spotlight-Suche, Aufnahme aller Vögel aus Malawi, Aktualisierung der Texte |
+| 3.2     | November 2023  | Aufnahme aller Vögel aus Kenia, Tansania und Uganda |
