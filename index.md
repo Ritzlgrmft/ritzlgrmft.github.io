@@ -5,6 +5,7 @@ layout: home
 |                                                       | English                                                | Deutsch                                              |
 | ----------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------- |
 | ![birds](apps/birds/icon.png)                         | [Birds from Southern Africa](apps/birds/en)            | [Vögel des südlichen Afrika](apps/birds/de)          |
+| ![travel-tracker](apps/travel-tracker/icon.png)       | [Travel-Tracker](apps/travel-tracker/en)               | [Reise-Tracker](apps/travel-tracker/de)              |
 | ![birds.botswana](apps/birds-botswana/icon.png)       | ~~[Birds of Botswana](apps/birds-botswana/en)~~        | ~~[Vögel von Botswana](apps/birds-botswana/de)~~     |
 | ![birds.namibia](apps/birds-namibia/icon.png)         | ~~[Birds of Namibia](apps/birds-namibia/en)~~          | ~~[Vögel von Namibia](apps/birds-namibia/de)~~       |
 | ![birds.southafrica](apps/birds-southafrica/icon.png) | ~~[Birds of South Africa](apps/birds-southafrica/en)~~ | ~~[Vögel von Südafrika](apps/birds-southafrica/de)~~ |
